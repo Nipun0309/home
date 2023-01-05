@@ -27,7 +27,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
      git clone https://github.com/<your-username>/home.git
    ```
 
-1.  Run the bash commands below after forking, cloning the repository and making the appropriate changes to the code and content:
+1.  Run the following bash commands after forking, cloning the repository and making the appropriate changes to the code and content:
 
    ```bash
      npm install
