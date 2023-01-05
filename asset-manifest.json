@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/%22https://Nipun0309.github.io/home%22/static/css/main.778eeed7.css",
-    "main.js": "/%22https://Nipun0309.github.io/home%22/static/js/main.96f42714.js",
-    "static/js/787.4b24f717.chunk.js": "/%22https://Nipun0309.github.io/home%22/static/js/787.4b24f717.chunk.js",
-    "static/media/nipunrustagi.jpeg": "/%22https://Nipun0309.github.io/home%22/static/media/nipunrustagi.0fd940fae8af229c3c2c.jpeg",
-    "static/media/resume.pdf": "/%22https://Nipun0309.github.io/home%22/static/media/resume.6b031962563a7549906a.pdf",
-    "index.html": "/%22https://Nipun0309.github.io/home%22/index.html",
-    "main.778eeed7.css.map": "/%22https://Nipun0309.github.io/home%22/static/css/main.778eeed7.css.map",
-    "main.96f42714.js.map": "/%22https://Nipun0309.github.io/home%22/static/js/main.96f42714.js.map",
-    "787.4b24f717.chunk.js.map": "/%22https://Nipun0309.github.io/home%22/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/home/static/css/main.778eeed7.css",
+    "main.js": "/home/static/js/main.9b049626.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/nipunrustagi.jpeg": "/home/static/media/nipunrustagi.0fd940fae8af229c3c2c.jpeg",
+    "static/media/resume.pdf": "/home/static/media/resume.6b031962563a7549906a.pdf",
+    "index.html": "/home/index.html",
+    "main.778eeed7.css.map": "/home/static/css/main.778eeed7.css.map",
+    "main.9b049626.js.map": "/home/static/js/main.9b049626.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.96f42714.js"
+    "static/js/main.9b049626.js"
   ]
 }
