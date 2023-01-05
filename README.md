@@ -31,11 +31,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
    ```bash
      npm install
-   ```:
-
-   ```bash
-   npm install
-   npm start
+     npm start
    ```
 
 2. To deploy website, run:
