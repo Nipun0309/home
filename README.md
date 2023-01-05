@@ -5,7 +5,7 @@
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent project and portfolio.
-    <a href="https://Nipun0309.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="https://Nipun0309.github.io/home">Nipun0309.github.io/home</a>
     <br />
 
 Dependencies defined in package.json:
@@ -44,8 +44,6 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     npm run build
     npm run deploy
    ```
-
-   Or for deployment at \<username>.github.io, refer [READMEdocs/custom-deployment.md](./READMEdocs/custom-deployment.md) and [pages.js](./pages.js)
 
 3. Congrats your site is up and running. To see it live, visit:
 
