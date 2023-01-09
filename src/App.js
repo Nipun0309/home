@@ -54,7 +54,6 @@ const Home = React.forwardRef((props, ref) => {
           hardSkills={skills.hardSkills}
           softSkills={skills.softSkills}
         />
-      )}
       
     </>
   );
